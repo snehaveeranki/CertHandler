@@ -6,9 +6,6 @@ CertHandler automates the process of installing, creating, and displaying certif
 These instructions will get you a copy of the project up and running on your machine for development and testing purposes. 
 
 ### Prerequisites
-       
-        
-
 	Operating System - Fedora 29 - https://getfedora.org/en/workstation/download/
 	Python - 3.0+ /url "https://www.python.org/downloads/"
 	Directory Server - https://www.dogtagpki.org/wiki/Installing_DS#References 
@@ -30,12 +27,15 @@ These instructions will get you a copy of the project up and running on your mac
 
 	1. Create a file ca.cfg (present in the repository)
 	2. Run the file automate.py from CLI using the command 
-	   sudo python automate.py
+	   
+	  $ sudo python automate.py
 
 ### Design Details:
 
 	1. automate.py - Main File to run
 	2. ca.cfg - Deployment Configuration File
+	3. Log/ - Included to show log from a trial run
+	4. Output/ - Included to show output files (including certificate) created after running the script
 
 ### Process Abstract:
 
@@ -51,6 +51,7 @@ These instructions will get you a copy of the project up and running on your mac
 	8. Download the certificate 
 	9. Import it into the security database 
 	10. Displaying the Certificate
+	
 
 ## License
 MIT License
