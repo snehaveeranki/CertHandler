@@ -39,7 +39,7 @@ These instructions will get you a copy of the project up and running on your mac
 
 ### Process Abstract:
 
-	The automate.py file automates the process of installing DS, 	   	CA, creates and displays a certificate.
+	The automate.py file automates the process of installing DS, CA, creates and displays a certificate.
 	
 	1. Installs DS
 	2. Installs CA
