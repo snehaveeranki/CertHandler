@@ -1,0 +1,24 @@
+INFO-21-Mar-19 10:14:33 - Logging of CertHandler Begins
+INFO-21-Mar-19 10:14:36 - 389-ds-base installation - Successful
+INFO-21-Mar-19 10:14:36 - dscreate setup - Successful
+INFO-21-Mar-19 10:14:36 - Customizing Configuration Template - Successful
+INFO-21-Mar-19 10:14:36 - Another instance with the same name may be present
+WARNING-21-Mar-19 10:14:36 - Issues with Creating an Instance
+INFO-21-Mar-19 10:14:36 - Base Entries must be already present
+WARNING-21-Mar-19 10:14:36 - Issues with Adding Base Entries
+INFO-21-Mar-19 10:14:36 - FQDN is server.example.com
+WARNING-21-Mar-19 10:14:37 - Issues with CA Subsystem Installation
+INFO-21-Mar-19 10:14:37 - Verifying system certificate - Successful
+INFO-21-Mar-19 10:14:43 - Verifying admit certificate - Successful
+INFO-21-Mar-19 10:14:43 - Import CA signing certificate - Successful
+INFO-21-Mar-19 10:14:45 - Import admin key and certificate - Successful
+WARNING-21-Mar-19 10:14:46 - Issues with User certificate setup
+WARNING-21-Mar-19 10:14:47 - Issues with Adding user to group
+INFO-21-Mar-19 10:14:52 - Preparing a security database - Successful
+INFO-21-Mar-19 10:14:53 - Created request id is 30
+INFO-21-Mar-19 10:14:55 - Created certificate id is 0x12
+INFO-21-Mar-19 10:14:56 - Assigning the certificate to the user as the admin - Successful
+INFO-21-Mar-19 10:14:57 - Downloading the certificate - Successful
+WARNING-21-Mar-19 10:14:58 - Issues with Assigning the certificate to the user
+INFO-21-Mar-19 10:14:59 - Retrieving the Certificate - Successful
+INFO-21-Mar-19 10:15:00 - Displaying the Certificate - Successful
