@@ -1,5 +1,6 @@
 # CertHandler Project
 CertHandler automates the process of installing, creating, and displaying certificates for you.
+![Example Output](https://raw.githubusercontent.com/snehaveeranki/CertHandler/master/OutputScreenshot.png)
 
 ## Getting Started
 
